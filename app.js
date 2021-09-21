@@ -98,7 +98,7 @@ function saveLocalTodos(todo){
 }
 
 function getTodos(){
-    //CHECK ---HEY Do I already have any thing there?
+    //CHECK IF---HEY Do I already have any thing there?
     let todos;
     if(localStorage.getItem('todos') === null){
         todos = [];

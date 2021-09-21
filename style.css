@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* more styling */
 body{
     background-image: linear-gradient(120deg, #e2c35d, #d88771);
     color: white;
